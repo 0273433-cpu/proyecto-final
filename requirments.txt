@@ -1,3 +1,0 @@
-streamlit
-lxml
-reportlab
